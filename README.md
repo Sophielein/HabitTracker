@@ -1,0 +1,2 @@
+# HabitTracker
+Django Practice Project
